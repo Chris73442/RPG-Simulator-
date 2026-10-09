@@ -99,6 +99,5 @@ As a **Programmer and Designer**, I was responsible for developing the gameplay 
 ### Design Responsibilities
 
 - Gameplay mechanics
-- RPG role mechanics
 - Combat flow
 - Game rules
