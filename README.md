@@ -8,9 +8,17 @@
 
 # 📖 About the Game
 
-**RPG Simulator** is a 2D RPG boardgame-style game where players must defeat enemies by using different roles available in the game.
+**RPG Simulator** is a 2D RPG game where players must defeat enemies by using available roles in the game.
 
-The game combines RPG combat mechanics with a simple and cozy 2D boardgame-style experience.
+---
+
+# 🎮 Gameplay
+
+The player takes control of a character and must defeat the enemy through turn-based RPG gameplay.
+
+Players can use the available role and its abilities to deal damage and overcome the enemy.
+
+The game focuses on simple RPG mechanics.
 
 ---
 
