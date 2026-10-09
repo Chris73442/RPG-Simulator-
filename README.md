@@ -79,7 +79,7 @@ The game focuses on simple RPG mechanics.
 # 📁 Game Flow
 
 <p align="center">
-  <img src="./Documentation/game-flow.png" width="90%">
+  <img src="./diagram/Gameflow RPG Simulator.drawio.png" width="90%">
 </p>
 
 ---
