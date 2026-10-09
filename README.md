@@ -1,7 +1,7 @@
 # 🎮 RPG Simulator
 
 <p align="center">
-  <img src="./Documentation/gameplay.gif" width="100%">
+  <img src="./Assets/rpg-simulator.gif" width="100%">
 </p>
 
 ---
@@ -113,13 +113,3 @@ As a **Programmer and Designer**, I was responsible for developing the gameplay 
 - RPG role mechanics
 - Combat flow
 - Game rules
-
----
-
-# 🎮 Gameplay
-
-The player takes control of a character and must defeat the enemy through turn-based RPG gameplay.
-
-Players can use the available role and its abilities to deal damage and overcome the enemy.
-
-The game focuses on simple RPG mechanics.
