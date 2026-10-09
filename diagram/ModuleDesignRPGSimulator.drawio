@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Halaman-1" id="nYzcrOTp-WIiqKL6tX8z">
+    <mxGraphModel dx="2408" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Player system&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="-770" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Enemy Sysrem&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="-140" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Combat System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="500" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Turn System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="-140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Health System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="500" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;UI System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="-770" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uOAqOnPg4ImE5kx7v9AG-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Game System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="-770" y="860" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
