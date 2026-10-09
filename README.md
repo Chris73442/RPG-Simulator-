@@ -18,9 +18,7 @@ The game combines RPG combat mechanics with a simple and cozy 2D boardgame-style
 
 | Name | Role |
 |---|---|
-| YOUR_NAME | Programmer, Designer |
-| TEAMMATE_NAME | Game Designer |
-| TEAMMATE_NAME | Game Artist |
+| Christopher Immanuel Sunjoto | Programmer, Designer |
 
 ### My Contribution
 
@@ -29,6 +27,7 @@ The game combines RPG combat mechanics with a simple and cozy 2D boardgame-style
 - Implemented player and enemy systems
 - Designed gameplay features
 - Implemented UI functionality
+- Implemented assets from itch io
 
 ---
 
