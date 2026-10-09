@@ -63,6 +63,8 @@ The game focuses on simple RPG mechanics.
 | **Health System** | HP | Handles player and enemy health |
 | **UI System** | HUD, UI | Displays gameplay information such as HP and turn information |
 | **Game System** | Game Flow | Handles the overall game progression |
+| **Audio System**      | BGM, SFX           | Manages background music and sound effects                               |
+| **Scene Management**  | Scene Transitions  | Handles navigation between the main menu, gameplay, and game-over scenes |
 
 ---
 
