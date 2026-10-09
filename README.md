@@ -114,7 +114,7 @@ The player takes control of a character and must defeat the enemy through turn-b
 
 Players can use the available role and its abilities to deal damage and overcome the enemy.
 
-The game focuses on simple RPG mechanics combined with a cozy 2D boardgame presentation.
+The game focuses on simple RPG mechanics.
 
 ---
 
