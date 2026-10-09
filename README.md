@@ -41,16 +41,7 @@ The game focuses on simple RPG mechanics.
 
 # ✨ Features
 
-- RPG Combat System
-- Player System
-- Enemy System
-- Role System
-- Turn-Based Gameplay
-- Health System
-- Attack System
-- UI / HUD
-- Game Flow
-
+- RPG Turnbase gameplay
 ---
 
 # ⚙️ Module Design
@@ -103,7 +94,6 @@ As a **Programmer and Designer**, I was responsible for developing the gameplay 
 - Combat system
 - Turn system
 - Health system
-- Role system
 - UI functionality
 - Game flow
 
