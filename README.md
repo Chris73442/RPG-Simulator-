@@ -56,7 +56,7 @@ The game focuses on simple RPG mechanics.
 # ⚙️ Module Design
 
 <p align="center">
-  <img src="./Documentation/module-design.png" width="90%">
+  <img src="./diagram/ModuleDesignRPGSimulator.drawio" width="90%">
 </p>
 
 ---
