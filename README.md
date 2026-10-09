@@ -115,23 +115,3 @@ The player takes control of a character and must defeat the enemy through turn-b
 Players can use the available role and its abilities to deal damage and overcome the enemy.
 
 The game focuses on simple RPG mechanics.
-
----
-
-# 📸 Gameplay Screenshots
-
-<p align="center">
-  <img src="./Documentation/gameplay-1.png" width="48%">
-  <img src="./Documentation/gameplay-2.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="./Documentation/gameplay-3.png" width="48%">
-  <img src="./Documentation/gameplay-4.png" width="48%">
-</p>
-
----
-
-# 🔗 Links
-
-- 🎮 **itch.io:** YOUR_ITCH_IO_LINK
