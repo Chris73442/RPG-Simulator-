@@ -59,7 +59,6 @@ The game focuses on simple RPG mechanics.
 | **Player System** | Movement, Input | Handles player input and player actions |
 | **Enemy System** | Enemy Behaviour | Handles enemy behaviour and actions |
 | **Combat System** | Attack, Damage | Handles combat interactions between player and enemy |
-| **Role System** | Character Roles | Handles different roles available to the player |
 | **Turn System** | Turn Management | Handles player and enemy turns |
 | **Health System** | HP | Handles player and enemy health |
 | **UI System** | HUD, UI | Displays gameplay information such as HP and turn information |
