@@ -41,16 +41,7 @@ The game focuses on simple RPG mechanics.
 
 # ✨ Features
 
-- RPG Combat System
-- Player System
-- Enemy System
-- Role System
-- Turn-Based Gameplay
-- Health System
-- Attack System
-- UI / HUD
-- Game Flow
-
+- RPG Turnbase gameplay
 ---
 
 # ⚙️ Module Design
@@ -68,18 +59,19 @@ The game focuses on simple RPG mechanics.
 | **Player System** | Movement, Input | Handles player input and player actions |
 | **Enemy System** | Enemy Behaviour | Handles enemy behaviour and actions |
 | **Combat System** | Attack, Damage | Handles combat interactions between player and enemy |
-| **Role System** | Character Roles | Handles different roles available to the player |
 | **Turn System** | Turn Management | Handles player and enemy turns |
 | **Health System** | HP | Handles player and enemy health |
 | **UI System** | HUD, UI | Displays gameplay information such as HP and turn information |
 | **Game System** | Game Flow | Handles the overall game progression |
+| **Audio System**      | BGM, SFX           | Manages background music and sound effects                               |
+| **Scene Management**  | Scene Transitions  | Handles navigation between the main menu, gameplay, and game-over scenes |
 
 ---
 
 # 📁 Game Flow
 
 <p align="center">
-  <img src="./Documentation/game-flow.png" width="90%">
+  <img src="./diagram/GameFlow RPG Simulator.drawio.png" width="90%">
 </p>
 
 ---
@@ -103,13 +95,11 @@ As a **Programmer and Designer**, I was responsible for developing the gameplay 
 - Combat system
 - Turn system
 - Health system
-- Role system
 - UI functionality
 - Game flow
 
 ### Design Responsibilities
 
 - Gameplay mechanics
-- RPG role mechanics
 - Combat flow
 - Game rules
