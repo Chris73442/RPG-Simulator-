@@ -80,7 +80,7 @@ The game combines RPG combat mechanics with a simple and cozy 2D boardgame-style
 
 **Engine:** Unity  
 **Programming Language:** C#  
-**Genre:** Boardgame · Cozy · 2D
+**Genre:** RPG · Action · 2D
 
 ---
 
